@@ -3,4 +3,4 @@ new_arrayEx02 = [value + 2 for value in array if value >5]
 new_arrayEx03 = {value + 2 for value in array if value >5}
 
 print(array) 
-print(new_arrayEx03)
+print(new_arrayEx03)trgy
